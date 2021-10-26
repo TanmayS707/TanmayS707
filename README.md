@@ -1,4 +1,4 @@
-![Black Flatlay Photo Motivational Finance Quote Facebook Cover](https://user-images.githubusercontent.com/67843457/138951387-15f8cb8a-4c44-4b91-8fcf-0ece7e864fb4.png)
+![Black Flatlay Photo Motivational Finance Quote Facebook Cover](https://user-images.githubusercontent.com/67843457/138959343-16f2a809-ed5f-42c1-b90b-8e83b4aa7dee.png)
 
 - 🔭 I’m currently working on Artificial Intelligence
 - 🌱 I’m currently learning Cloud and Other advanced computing technologies
@@ -65,10 +65,6 @@
 <br/>  
 
 
-## Recent Blog Posts  
-  
-
-<br/>  
 
   
 
