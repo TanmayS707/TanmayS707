@@ -5,7 +5,7 @@
 - 👯 I’m looking to collaborate on Projects in Deep Learning and OpenCV
 - 🤔 I’m looking for help with Blockchain and CryptoMining
 - 💬 Ask me about Artificial Intelligence and anything related to it
-- 📫 How to reach me: linkedin.com/in/tanmay-sharma-4625a5185 or tanmays707@gmail.com
+- 📫 How to reach me: tanmays707@gmail.com
 - 😄 Pronouns: He/His
 - ⚡ Fun fact: 
 
