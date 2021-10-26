@@ -1,13 +1,20 @@
 ![Black Flatlay Photo Motivational Finance Quote Facebook Cover](https://user-images.githubusercontent.com/67843457/138959343-16f2a809-ed5f-42c1-b90b-8e83b4aa7dee.png)
 
-- 🔭 I’m currently working on Artificial Intelligence
+- 🔭 I’m currently working on Data Science
+
 - 🌱 I’m currently learning Cloud and Other advanced computing technologies
+
 - 👯 I’m looking to collaborate on Projects in Deep Learning and OpenCV
+
 - 🤔 I’m looking for help with Blockchain and CryptoMining
+
 - 💬 Ask me about Artificial Intelligence and anything related to it
+
 - 📫 How to reach me: tanmays707@gmail.com
+
 - 😄 Pronouns: He/His
-- ⚡ Fun fact: 
+
+- ⚡ Fun fact: I use tabs over spaces 
 
 <div align="center">
 <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
@@ -17,17 +24,7 @@
 ### <div align="center">I'm Tanmay Sharma, a full-time Artificial Intelligence Student 👨‍💻 working on my projects🚀</div>  
   
 
-- 🔭 I’m currently working as Intern  
-  
 
-- 🌱 I’m currently learning AWS and other Cloud technologies  
-  
-
-- ❓ Ask me about anything related to Artificial Intelligence and related technologies  
-  
-
-- ⚡ Fun fact: I use tabs over spaces  
-  
 
 <br/>  
 
